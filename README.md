@@ -1,8 +1,8 @@
 # PrototypeGillguard
 My first repository
-# H1 Invincible Series
+# Invincible Series
 [(https://comicvine.gamespot.com/profile/misterz173/lists/invincible-characters/18713/)]
-# H2 Characters:
+# Characters:
 - Invincible (Mark Grayson
 - Atom Eve
 - Omni-Man (Nolan Grayson) > Mark's Father
